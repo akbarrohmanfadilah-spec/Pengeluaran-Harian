@@ -1,0 +1,18 @@
+LAPORAN PENGELUARAN HARIAN
+========================================
+Jumlah catatan       : 9
+Total pengeluaran    : Rp282.000
+Rata-rata per hari   : Rp47.000
+----------------------------------------
+Rekap per kategori:
+  Hiburan   :    Rp105.000 (37.2%)
+  Transport :     Rp62.000 (22.0%)
+  Belanja   :     Rp62.000 (22.0%)
+  Makanan   :     Rp35.000 (12.4%)
+  Minuman   :     Rp18.000 (6.4%)
+Kategori terboros    : Hiburan (Rp105.000)
+----------------------------------------
+3 pengeluaran terbesar:
+  2026-10-11 Langganan musik      Rp55.000
+  2026-10-03 Tiket bioskop        Rp50.000
+  2026-10-05 Bensin               Rp40.000

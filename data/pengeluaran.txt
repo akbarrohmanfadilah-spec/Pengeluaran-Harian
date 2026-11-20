@@ -1,0 +1,10 @@
+2026-10-01;Makanan;Nasi goreng;15000
+2026-10-01;Transport;Ojek online;22000
+2026-10-02;Makanan;Makan siang;20000
+2026-10-02;Belanja;Alat tulis;35000
+2026-10-03;Hiburan;Tiket bioskop;50000
+2026-10-04;Minuman;Kopi;18000
+2026-10-05;Transport;Bensin;40000
+2026-10-05;Belanja;Buku catatan;27000
+2026-10-11;Hiburan;Langganan musik;55000
+2026-10-11;Makanan;Soto;abc;
