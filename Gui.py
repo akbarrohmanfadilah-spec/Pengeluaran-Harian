@@ -11,7 +11,7 @@ from keuangan.testing import TestKeuangan
 from keuangan.validasi import DataTidakValidError
 from main import PATH_DATA, PATH_LAPORAN, siapkan_file
 
-# ---------- Tema warna dan font ----------
+#Tema warna dan font
 BG = "#F4F6FA"       
 CARD = "#FFFFFF"      
 NAVY = "#1F3A5F"     

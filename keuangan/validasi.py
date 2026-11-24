@@ -46,7 +46,6 @@ def validasi_record(**data):
 
 
 if __name__ == "__main__":
-    # Pengujian lokal modul validasi (dijalankan: python validasi.py)
     print(validasi_record(tanggal="2026-10-01", kategori="makanan",
                           keterangan="Nasi goreng", jumlah="15000"))
     for kasus in ({"tanggal": "2026-10-01", "kategori": "", "keterangan": "x", "jumlah": 1},
